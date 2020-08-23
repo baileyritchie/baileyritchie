@@ -6,4 +6,4 @@ I'm a recent college graduate (in Chemical Engineering) and am searching for my 
 
 I love digital products, and "indiehacking" businesses. You can usually find me programming, using Notion or reading about weird internet sub cultures on twitter.
 
-
+## Check out -> [my portfolio](www.baileyritchie.com)
