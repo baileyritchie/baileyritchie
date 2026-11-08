@@ -1,9 +1,9 @@
 # Hello World 👋
 
-## My name is Bailey (she/her) and I like to build interesting things on the web.
+## My name is Bailey (she/her) and I'm a software engineer.
 
-I'm a full stack software engineer, building projects with JavaScript and TypeScript! 
+I'm a Typescript enthusiast and claude enjoyer.
 
-I love digital products, and "indiehacking" businesses. You can usually find me programming, using Notion or reading about weird internet sub cultures on twitter.
+I'm passionate about beautiful and practical software, and bridging the gap between humans and machines. You can usually find me programming, using Notion or woodworking in my freetime.
 
 ## Check out -> [my portfolio](https://baileyritchie.com/)
